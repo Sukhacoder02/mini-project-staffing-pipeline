@@ -4,14 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
+
     "start": "nodemon ./src/index.js",
     "test": "jest",
     "dev": "npx nodemon ./src/index.js"
-=======
-    "test": "jest",
-    "dev":"npx nodemon ./src/index.js"
->>>>>>> 09018cb (Feat: Add basic docs to the api route api-docs)
+
   },
   "author": "",
   "license": "ISC",
