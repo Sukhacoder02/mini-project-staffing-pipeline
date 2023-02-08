@@ -1,7 +1,7 @@
 
 {
   "development": {
-    "username": "postgres",
+    "username": "postgres" ,
     "password": null,
     "database": "staffing_pipeline_DB",
     "host": "127.0.0.1",
