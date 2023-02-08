@@ -40,6 +40,7 @@ module.exports = {
       image: {
         type: Sequelize.STRING
       },
+
       password: {
         type: Sequelize.TEXT
       },
